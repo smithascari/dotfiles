@@ -4,7 +4,8 @@
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "editor.renderWhitespace": "all",
-    "workbench.colorTheme": "Github Light Theme",
-    "editor.fontSize": 14,
-    "window.zoomLevel": 0
+    "editor.fontSize": 13,
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.sideBar.location": "right",
+    "window.zoomLevel": 1
 }
